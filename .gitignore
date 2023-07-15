@@ -1,0 +1,49 @@
+
+/hardhat/node_modules
+/hardhat/.env
+/hardhat/coverage
+/hardhat/coverage.json
+/hardhat/typechain
+/hardhat/typechain-types
+/hardhat/deployments
+
+# Hardhat files
+/hardhat/cache
+/hardhat/artifacts
+
+# dependencies
+/web/node_modules
+/web/.pnp
+/web.pnp.js
+
+# testing
+/web/coverage
+
+# next.js
+/web/.next/
+/web/out/
+
+# production
+/web/build
+
+# misc
+/web/.DS_Store
+/web/*.pem
+
+# debug
+/web/npm-debug.log*
+/web/yarn-debug.log*
+/web/yarn-error.log*
+
+# local env files
+/web/.env*.local
+/web/.env
+
+# vercel
+/web/.vercel
+
+# typescript
+/web/*.tsbuildinfo
+/web/next-env.d.ts
+
+
