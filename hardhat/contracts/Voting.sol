@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.7;
 
+//please add proper comments with every function.
+
 error Voting__NotOwner();
 error Voting_VoteAlreadyGiven();
 error Voting_CandidateNotFound();
